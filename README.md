@@ -21,9 +21,3 @@ A lightweight and responsive Image Editor built with HTML, CSS, and Vanilla Java
 - **CSS3** – Styling and layout (Responsive design using Flexbox)
 - **JavaScript (Vanilla)** – DOM manipulation and core logic
 
-## 📸 Demo
-
-![App Screenshot](preview-image.png) <!-- Replace with actual screenshot if available -->
-
-## 📂 Project Structure
-
